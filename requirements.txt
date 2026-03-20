@@ -1,0 +1,27 @@
+# Core API + environment
+openai>=1.0.0
+python-dotenv>=1.0.0
+httpx>=0.27.0
+
+# Async + backend
+fastapi>=0.110.0
+uvicorn>=0.30.0
+
+# UI (used heavily in course)
+gradio>=4.0.0
+
+# Data handling + validation (for structured outputs)
+pydantic>=2.7.0
+
+
+
+
+# Tokenization (used in LLM workflows)
+tiktoken>=0.7.0
+
+# Utilities
+rich>=13.0.0
+tenacity>=8.0.0
+
+# Optional but useful (lightweight)
+requests>=2.31.0

@@ -1,0 +1,71 @@
+I am able to design, build, deploy, and maintain autonomous AI systems that solve real business problems.
+
+I am able to provide the following value:
+
+- I turn manual, repetitive, and slow knowledge-work into agentic workflows that save time and reduce human effort.
+- I build autonomous AI agents that can plan, decide, use tools, retrieve information, and complete tasks with minimal supervision.
+- I create multi-agent systems where specialized agents collaborate on research, sales, analysis, coding, and operations.
+- I connect AI models to real tools, APIs, databases, files, browsers, and external services.
+- I design workflows that are more reliable than simple chatbots because they use structure, memory, control flow, guardrails, and evaluation loops.
+- I deploy agentic applications into real environments so they can be used by users, teams, and businesses.
+
+I am able to build:
+
+- Career Digital Twins that represent a person professionally and answer on their behalf.
+- SDR / sales agents that write outreach emails, handle prospects, and support lead generation.
+- Deep research systems that search, compare, summarize, and synthesize information across many sources.
+- Stock picker and financial research agents that gather data, analyze options, and surface insights.
+- Engineering teams of agents that can plan, build, test, and support software workflows.
+- Browser-based sidekick agents that can interact with websites and assist users inside the browser.
+- Agent creators that can generate, launch, and coordinate new agents.
+- Trading-floor style multi-agent systems that manage complex decision flows and tool chains.
+- Custom MCP servers and clients that expose tools, business logic, and external capabilities to agents.
+
+I have technical capability in:
+
+- OpenAI Agents SDK
+- CrewAI
+- LangGraph
+- AutoGen
+- MCP
+- Function calling
+- Tools and tool orchestration
+- Structured outputs
+- Memory and persistence
+- Async execution
+- Tracing and monitoring
+- Guardrails and evaluator loops
+- Model routing across multiple LLMs
+- Gradio and Hugging Face Spaces deployment
+- Playwright browser automation
+- SQL, vector storage, and API integration
+- Docker-based agent workflows
+
+I deliver business value by:
+
+- Reducing operational workload through automation.
+- Improving sales throughput with AI-assisted prospecting and outreach.
+- Speeding up research and decision-making with always-on analysis agents.
+- Supporting software teams with agentic coding, debugging, and testing helpers.
+- Building custom AI products for startups, internal teams, and clients.
+- Creating prototype-to-production agent systems that are practical, testable, and monetizable.
+- Helping organizations adopt agentic AI in a structured, safe, and commercially useful way.
+
+I ship or sell:
+
+- AI automation services for businesses.
+- Custom agent development projects.
+- Research and intelligence copilots.
+- Sales and outreach automation systems.
+- Internal productivity assistants.
+- Multi-agent operations tools.
+- MCP-powered tool ecosystems.
+- Agentic AI prototypes and proof-of-concepts.
+- Production-ready workflows with monitoring and reliability patterns.
+
+My overall market value:
+
+I am someone who turns AI into working systems, not just prompts.
+I build agent-based products that save time, reduce costs, improve decision quality, and unlock new business capabilities.
+I speak the language of frameworks, orchestration, tools, memory, evaluation, deployment, and real-world use cases.
+I create value for clients, employers, and founders by shipping practical autonomous AI systems end to end.
