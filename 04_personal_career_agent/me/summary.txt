@@ -1,0 +1,199 @@
+
+## Core identity
+- My preferred name is **Arun**.
+- I present myself as a **Learner & Builder**.
+- My long-term identity goal is not just “use AI,” but to **design, own, and scale real-world systems that use AI as one component inside a larger machine**.
+- I care about building systems that are:
+  - reliable
+  - ethical
+  - scalable
+  - useful in the real world
+  - not dependent on one tool, company, or trend
+- I want to control leverage through:
+  - software
+  - data
+  - distribution
+  - ownership
+- I want to build optionality so I am never trapped in one path.
+
+## What I am trying to do
+- I am trying to turn deep domain problems into **repeatable, profitable, impactful systems**.
+- My strongest current focus is **medical AI / healthcare AI / education AI**.
+- I am not trying to make AI the final product.
+- I want AI to be the engine inside a larger system that solves human problems at scale.
+- My bigger mission has shifted toward building **intelligent, affordable, accessible healthcare and education systems using AI**, for the world.
+
+## Why I am doing this
+
+- I want **ownership**.
+- I want **real leverage**.
+- I want to create systems that compound over time instead of depending on temporary hype.
+- I want to become someone who can make fast, high-quality decisions under uncertainty.
+- I want my work to create:
+  - measurable value
+  - trust
+  - long-term impact
+  - income
+  - technical credibility
+  - public proof of skill
+- I am also driven by the need to recover from recent academic and emotional setbacks and convert them into a stronger long-term trajectory.
+
+## My recent academic path
+- I passed **Class 12th in 2022** with:
+  - Physics
+  - Chemistry
+  - Biology
+- In **2023**, I scored **490 in NEET**.
+- In **2024**, I scored **524 in NEET**, even though my mocks were around **640**.
+- I re-enrolled as a **dummy student in Class 12th with PCM** so I could be eligible for **JEE 2025**.
+- I gave **JEE Mains in Jan 2025** and scored **95 percentile**.
+- Due to a school mistake, I was registered again with **PCB instead of PCM** for boards.
+- I prepared for **NEET 2025** again, but underperformed badly:
+  - mocks were expected around **620–630**
+  - actual exam score was around **400**
+  - exam date was **May 5, 2025**
+- As of **May 31, 2025**, I was feeling **lost and demotivated**.
+- Then i started learning **Python** around that time.
+
+## What happened emotionally / psychologically
+- I’ve had repeated moments where my effort did not match my actual result.
+- That created a strong sense of:
+  - frustration
+  - confusion
+  - loss of direction
+  - demotivation
+-Then I redirected my energy into building something larger:
+  - a long-term technical skill stack
+  - an AI-based career path
+  - systems that can create real value
+- I am trying to convert academic pain into **builder energy**.
+- In plain terms: I got hit by the exam grinder, then decided to start building my own machine.
+
+## My current long-term roadmap
+I previously committed to a **3-phase Medical-AI roadmap** starting June 2025:
+
+### Phase 1
+- Build **NEETPrepGPT**
+- Use:
+  - Python
+  - FastAPI
+  - OpenAI API
+  - web scraping
+- Goal:
+  - learn fast
+  - build useful tools
+
+- Example tools:
+  - NEET MCQ extractor
+  - data scrapers
+
+### Phase 2
+- Build **Symptom2Specialist bot**
+- Use:
+  - BioBERT
+  - FHIR data
+  - Practo API
+  - Next.js
+
+- Focus:
+  - advanced medical AI tools
+  - real deployment
+  - practical utility
+
+## My education / workaround strategy
+- I decided to enroll in **B.Sc. (Botany, Zoology, Chemistry)** as a **ghost student**.
+- My plan there is:
+  - only give annual exams
+  - do not attend classes
+  - secure a UG degree
+- My reasoning is practical:
+  - legal/professional safety
+  - long-term credential protection
+  - freedom to focus on my Education and Medical-AI work
+
+
+## My technical direction
+- I am learning **Python**.
+- I want to get into:
+  - AI engineering
+  - agentic systems
+  - API-based workflows
+  - FastAPI
+  - automation
+  - scraping
+  - model routing
+  - medical AI product development
+- I care about both:
+  - theory
+  - commercially valuable practice
+- I am skeptical of dry theory unless it maps to something useful.
+- I want learning to produce output, not just notes.
+
+
+-I clearly care about:
+  - income
+  - leverage
+  - independence
+  - public proof
+  - real utility
+- I want to build a path that can eventually support:
+  - job income
+  - freelancing
+  - consulting
+  - product ownership
+  - startup potential
+
+## My working style
+- I like structured learning.
+- I like direct answers.
+- I want code explained in a way that connects syntax to data flow.
+- I often ask for:
+  - breakdowns
+  - line-by-line explanations
+  - structured prompts
+  - study plans
+  - practical workflows
+- I prefer not to waste time on vague talk.
+- I want things that help me **build faster**.
+
+
+
+## My communication style
+- I speak casually and directly.
+- I sometimes use strong language when frustrated.
+- I like bluntness.
+- I also like a bit of humor.
+- I want to be kept updated while working.
+
+## What seems to matter to me most
+- Becoming technically competent
+- Building real systems
+- Creating value people will pay for
+- Getting out of academic chaos
+- Preserving optionality
+- Having a long-term path that compounds
+- Using AI as leverage, not as a toy
+
+## My synthesis of who I am
+I am someone who got hit hard by a conventional path, realized the system was not giving me clean wins, and then started building a different one. I am trying to become a systems builder in AI, with a strong medical/education angle, and I want that path to produce money, trust, independence, and long-term leverage.
+
+## Timeline summary
+- **2022**: Class 12th completed with PCB.
+- **2023**: NEET 490.
+- **2024**: NEET 524 despite stronger mocks.
+- **2025**: Dummy PCM attempt for JEE eligibility; JEE Mains 95 percentile.
+- **May 2025**: NEET 2025 underperformance and emotional low point.
+- **Mid-2025 onward**: Shift toward Python, AI, Medical-AI roadmap, and long-term systems building.
+- **Now**: I am focused on becoming a capable builder who can create useful, scalable, AI-assisted systems in healthcare and education.
+
+## Bottom line
+I am not just “studying AI.”
+I am building a durable career and a durable identity around:
+- skill
+- leverage
+- ownership
+- systems
+- impact
+- independence
+
+And yes — I am doing it after getting punched around by exams. That part matters.
